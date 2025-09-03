@@ -1,0 +1,5 @@
+Item;Stock Quantity;Reorder Level;Storage Location;Packaging Unit
+Coffee;3;2;Küche;bags
+Sugar;1;1;Küche;boxes
+Tea;4;2;Küche;boxes
+Coffee;2;1;Pantry;jars

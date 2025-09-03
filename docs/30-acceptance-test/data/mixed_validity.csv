@@ -1,0 +1,9 @@
+Item;Stock Quantity;Reorder Level;Storage Location;Packaging Unit
+Coffee;3;2;Küche;bags
+Sugar;1;1;Küche;boxes
+Expired Milk;-2;1;Küche;bottles
+Tea;4;2;Küche;boxes
+Special Sauce;1;1;Garage;invalid_unit
+Cookies;0;2;Pantry;boxes
+Premium Coffee;;1;Pantry;bags
+Rice;2;1;Pantry;bags

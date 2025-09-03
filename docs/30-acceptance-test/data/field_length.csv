@@ -1,0 +1,3 @@
+Item;Stock Quantity;Reorder Level;Storage Location;Packaging Unit
+This is an extremely long item name that exceeds the maximum allowed field length of 255 characters by containing way too many characters and words and descriptions that make it impossibly long for any reasonable database field storage requirements and should definitely be rejected by the validation system because it is clearly beyond any practical use case for a household inventory management application and demonstrates the boundary testing requirements;1;1;Küche;bottles
+Normal Item;2;1;Pantry;boxes

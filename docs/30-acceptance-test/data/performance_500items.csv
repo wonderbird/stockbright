@@ -1,0 +1,481 @@
+Item;Stock Quantity;Reorder Level;Storage Location;Packaging Unit
+Milk 1;2;1;Küche;bottles
+Bread 1;1;1;Pantry;pcs
+Apples 1;5;3;Freezer;pcs
+Bananas 1;8;4;Bathroom;pcs
+Orange Juice 1;3;1;Laundry Room;cartons
+Yogurt 1;6;3;Kitchen Sink;tubs
+Cheese 1;2;1;Living Room;wrapped blocks
+Butter 1;1;1;Garage;wrapped blocks
+Eggs 1;12;6;Office;pcs
+Tomatoes 1;4;2;Break Room;pcs
+Potatoes 1;10;5;Restroom;bags
+Onions 1;3;2;Storage Room;bags
+Carrots 1;6;3;Workshop;bags
+Lettuce 1;2;1;Emergency Storage;heads
+Cucumber 1;3;2;Bedroom;pcs
+Bell Peppers 1;4;2;Closet;pcs
+Mushrooms 1;2;1;Hallway;portions
+Garlic 1;1;1;Basement;heads
+Lemons 1;4;2;Attic;pcs
+Limes 1;3;2;Dining Room;pcs
+Pasta 1;5;3;Study;boxes
+Rice 1;2;1;Guest Room;bags
+Flour 1;3;2;Kids Room;bags
+Sugar 1;2;1;Master Bedroom;boxes
+Salt 1;1;1;Walk-in Closet;boxes
+Pepper 1;1;1;Linen Closet;sachets
+Olive Oil 1;2;1;Coat Closet;bottles
+Vinegar 1;2;1;Under Stairs;bottles
+Soy Sauce 1;1;1;Utility Room;bottles
+Honey 1;1;1;Mudroom;jars
+Jam 1;3;2;Sunroom;jars
+Peanut Butter 1;2;1;Porch;jars
+Oats 1;2;1;Deck;boxes
+Cereal 1;3;2;Patio;boxes
+Crackers 1;4;3;Shed;boxes
+Cookies 1;2;1;Greenhouse;boxes
+Canned Tomatoes 1;6;4;Wine Cellar;cans
+Canned Beans 1;8;5;Root Cellar;cans
+Tuna 1;4;3;Cold Storage;cans
+Chicken Broth 1;3;2;Dry Storage;cartons
+Shampoo 1;2;1;Kühlschrank;bottles
+Conditioner 1;2;1;Speisekammer;bottles
+Body Wash 1;3;2;Schlafzimmer;bottles
+Soap 1;4;3;Wohnzimmer;pcs
+Toothpaste 1;3;2;Arbeitszimmer;tubs
+Toothbrush 1;4;2;Kinderzimmer;pcs
+Mouthwash 1;2;1;Badezimmer;bottles
+Deodorant 1;2;1;Dachboden;pcs
+Toilet Paper 1;24;12;Keller;wrapped blocks
+Tissues 1;6;4;Flur;boxes
+Laundry Detergent 1;2;1;Eingang;bottles
+Fabric Softener 1;1;1;Balkon;bottles
+Bleach 1;1;1;Terrasse;bottles
+Dish Soap 1;3;2;Garten;bottles
+Sponges 1;6;4;Schuppen;pcs
+Glass Cleaner 1;2;1;Waschküche;bottles
+Air Freshener 1;2;1;Abstellraum;bottles
+Candles 1;4;3;Vorratskammer;pcs
+Batteries 1;8;4;Gefrierschrank;pcs
+Light Bulbs 1;4;2;Küchenschrank;pcs
+Milk 2;2;1;Küche;bottles
+Bread 2;1;1;Pantry;pcs
+Apples 2;5;3;Freezer;pcs
+Bananas 2;8;4;Bathroom;pcs
+Orange Juice 2;3;1;Laundry Room;cartons
+Yogurt 2;6;3;Kitchen Sink;tubs
+Cheese 2;2;1;Living Room;wrapped blocks
+Butter 2;1;1;Garage;wrapped blocks
+Eggs 2;12;6;Office;pcs
+Tomatoes 2;4;2;Break Room;pcs
+Potatoes 2;10;5;Restroom;bags
+Onions 2;3;2;Storage Room;bags
+Carrots 2;6;3;Workshop;bags
+Lettuce 2;2;1;Emergency Storage;heads
+Cucumber 2;3;2;Bedroom;pcs
+Bell Peppers 2;4;2;Closet;pcs
+Mushrooms 2;2;1;Hallway;portions
+Garlic 2;1;1;Basement;heads
+Lemons 2;4;2;Attic;pcs
+Limes 2;3;2;Dining Room;pcs
+Pasta 2;5;3;Study;boxes
+Rice 2;2;1;Guest Room;bags
+Flour 2;3;2;Kids Room;bags
+Sugar 2;2;1;Master Bedroom;boxes
+Salt 2;1;1;Walk-in Closet;boxes
+Pepper 2;1;1;Linen Closet;sachets
+Olive Oil 2;2;1;Coat Closet;bottles
+Vinegar 2;2;1;Under Stairs;bottles
+Soy Sauce 2;1;1;Utility Room;bottles
+Honey 2;1;1;Mudroom;jars
+Jam 2;3;2;Sunroom;jars
+Peanut Butter 2;2;1;Porch;jars
+Oats 2;2;1;Deck;boxes
+Cereal 2;3;2;Patio;boxes
+Crackers 2;4;3;Shed;boxes
+Cookies 2;2;1;Greenhouse;boxes
+Canned Tomatoes 2;6;4;Wine Cellar;cans
+Canned Beans 2;8;5;Root Cellar;cans
+Tuna 2;4;3;Cold Storage;cans
+Chicken Broth 2;3;2;Dry Storage;cartons
+Shampoo 2;2;1;Kühlschrank;bottles
+Conditioner 2;2;1;Speisekammer;bottles
+Body Wash 2;3;2;Schlafzimmer;bottles
+Soap 2;4;3;Wohnzimmer;pcs
+Toothpaste 2;3;2;Arbeitszimmer;tubs
+Toothbrush 2;4;2;Kinderzimmer;pcs
+Mouthwash 2;2;1;Badezimmer;bottles
+Deodorant 2;2;1;Dachboden;pcs
+Toilet Paper 2;24;12;Keller;wrapped blocks
+Tissues 2;6;4;Flur;boxes
+Laundry Detergent 2;2;1;Eingang;bottles
+Fabric Softener 2;1;1;Balkon;bottles
+Bleach 2;1;1;Terrasse;bottles
+Dish Soap 2;3;2;Garten;bottles
+Sponges 2;6;4;Schuppen;pcs
+Glass Cleaner 2;2;1;Waschküche;bottles
+Air Freshener 2;2;1;Abstellraum;bottles
+Candles 2;4;3;Vorratskammer;pcs
+Batteries 2;8;4;Gefrierschrank;pcs
+Light Bulbs 2;4;2;Küchenschrank;pcs
+Milk 3;3;1;Küche;bottles
+Bread 3;2;1;Pantry;pcs
+Apples 3;7;3;Freezer;pcs
+Bananas 3;10;5;Bathroom;pcs
+Orange Juice 3;4;2;Laundry Room;cartons
+Yogurt 3;8;4;Kitchen Sink;tubs
+Cheese 3;3;1;Living Room;wrapped blocks
+Butter 3;2;1;Garage;wrapped blocks
+Eggs 3;18;9;Office;pcs
+Tomatoes 3;6;3;Break Room;pcs
+Potatoes 3;15;7;Restroom;bags
+Onions 3;5;2;Storage Room;bags
+Carrots 3;8;4;Workshop;bags
+Lettuce 3;3;1;Emergency Storage;heads
+Cucumber 3;4;2;Bedroom;pcs
+Bell Peppers 3;6;3;Closet;pcs
+Mushrooms 3;3;1;Hallway;portions
+Garlic 3;2;1;Basement;heads
+Lemons 3;6;3;Attic;pcs
+Limes 3;4;2;Dining Room;pcs
+Pasta 3;7;3;Study;boxes
+Rice 3;3;1;Guest Room;bags
+Flour 3;4;2;Kids Room;bags
+Sugar 3;3;1;Master Bedroom;boxes
+Salt 3;2;1;Walk-in Closet;boxes
+Pepper 3;2;1;Linen Closet;sachets
+Olive Oil 3;3;1;Coat Closet;bottles
+Vinegar 3;3;1;Under Stairs;bottles
+Soy Sauce 3;2;1;Utility Room;bottles
+Honey 3;2;1;Mudroom;jars
+Jam 3;4;2;Sunroom;jars
+Peanut Butter 3;3;1;Porch;jars
+Oats 3;3;1;Deck;boxes
+Cereal 3;4;2;Patio;boxes
+Crackers 3;6;3;Shed;boxes
+Cookies 3;3;1;Greenhouse;boxes
+Canned Tomatoes 3;9;4;Wine Cellar;cans
+Canned Beans 3;12;6;Root Cellar;cans
+Tuna 3;6;3;Cold Storage;cans
+Chicken Broth 3;4;2;Dry Storage;cartons
+Shampoo 3;3;1;Kühlschrank;bottles
+Conditioner 3;3;1;Speisekammer;bottles
+Body Wash 3;4;2;Schlafzimmer;bottles
+Soap 3;6;3;Wohnzimmer;pcs
+Toothpaste 3;4;2;Arbeitszimmer;tubs
+Toothbrush 3;6;3;Kinderzimmer;pcs
+Mouthwash 3;3;1;Badezimmer;bottles
+Deodorant 3;3;1;Dachboden;pcs
+Toilet Paper 3;36;18;Keller;wrapped blocks
+Tissues 3;9;4;Flur;boxes
+Laundry Detergent 3;3;1;Eingang;bottles
+Fabric Softener 3;2;1;Balkon;bottles
+Bleach 3;2;1;Terrasse;bottles
+Dish Soap 3;4;2;Garten;bottles
+Sponges 3;9;4;Schuppen;pcs
+Glass Cleaner 3;3;1;Waschküche;bottles
+Air Freshener 3;3;1;Abstellraum;bottles
+Candles 3;6;3;Vorratskammer;pcs
+Batteries 3;12;6;Gefrierschrank;pcs
+Light Bulbs 3;6;3;Küchenschrank;pcs
+Milk 4;4;2;Küche;bottles
+Bread 4;3;1;Pantry;pcs
+Apples 4;8;4;Freezer;pcs
+Bananas 4;12;6;Bathroom;pcs
+Orange Juice 4;5;2;Laundry Room;cartons
+Yogurt 4;10;5;Kitchen Sink;tubs
+Cheese 4;4;2;Living Room;wrapped blocks
+Butter 4;3;1;Garage;wrapped blocks
+Eggs 4;24;12;Office;pcs
+Tomatoes 4;8;4;Break Room;pcs
+Potatoes 4;20;10;Restroom;bags
+Onions 4;6;3;Storage Room;bags
+Carrots 4;10;5;Workshop;bags
+Lettuce 4;4;2;Emergency Storage;heads
+Cucumber 4;6;3;Bedroom;pcs
+Bell Peppers 4;8;4;Closet;pcs
+Mushrooms 4;4;2;Hallway;portions
+Garlic 4;3;1;Basement;heads
+Lemons 4;8;4;Attic;pcs
+Limes 4;6;3;Dining Room;pcs
+Pasta 4;10;5;Study;boxes
+Rice 4;4;2;Guest Room;bags
+Flour 4;6;3;Kids Room;bags
+Sugar 4;4;2;Master Bedroom;boxes
+Salt 4;3;1;Walk-in Closet;boxes
+Pepper 4;3;1;Linen Closet;sachets
+Olive Oil 4;4;2;Coat Closet;bottles
+Vinegar 4;4;2;Under Stairs;bottles
+Soy Sauce 4;3;1;Utility Room;bottles
+Honey 4;3;1;Mudroom;jars
+Jam 4;6;3;Sunroom;jars
+Peanut Butter 4;4;2;Porch;jars
+Oats 4;4;2;Deck;boxes
+Cereal 4;6;3;Patio;boxes
+Crackers 4;8;4;Shed;boxes
+Cookies 4;4;2;Greenhouse;boxes
+Canned Tomatoes 4;12;6;Wine Cellar;cans
+Canned Beans 4;16;8;Root Cellar;cans
+Tuna 4;8;4;Cold Storage;cans
+Chicken Broth 4;6;3;Dry Storage;cartons
+Shampoo 4;4;2;Kühlschrank;bottles
+Conditioner 4;4;2;Speisekammer;bottles
+Body Wash 4;6;3;Schlafzimmer;bottles
+Soap 4;8;4;Wohnzimmer;pcs
+Toothpaste 4;6;3;Arbeitszimmer;tubs
+Toothbrush 4;8;4;Kinderzimmer;pcs
+Mouthwash 4;4;2;Badezimmer;bottles
+Deodorant 4;4;2;Dachboden;pcs
+Toilet Paper 4;48;24;Keller;wrapped blocks
+Tissues 4;12;6;Flur;boxes
+Laundry Detergent 4;4;2;Eingang;bottles
+Fabric Softener 4;3;1;Balkon;bottles
+Bleach 4;3;1;Terrasse;bottles
+Dish Soap 4;6;3;Garten;bottles
+Sponges 4;12;6;Schuppen;pcs
+Glass Cleaner 4;4;2;Waschküche;bottles
+Air Freshener 4;4;2;Abstellraum;bottles
+Candles 4;8;4;Vorratskammer;pcs
+Batteries 4;16;8;Gefrierschrank;pcs
+Light Bulbs 4;8;4;Küchenschrank;pcs
+Milk 5;5;2;Küche;bottles
+Bread 5;4;2;Pantry;pcs
+Apples 5;10;5;Freezer;pcs
+Bananas 5;15;7;Bathroom;pcs
+Orange Juice 5;6;3;Laundry Room;cartons
+Yogurt 5;12;6;Kitchen Sink;tubs
+Cheese 5;5;2;Living Room;wrapped blocks
+Butter 5;4;2;Garage;wrapped blocks
+Eggs 5;30;15;Office;pcs
+Tomatoes 5;10;5;Break Room;pcs
+Potatoes 5;25;12;Restroom;bags
+Onions 5;8;4;Storage Room;bags
+Carrots 5;12;6;Workshop;bags
+Lettuce 5;5;2;Emergency Storage;heads
+Cucumber 5;8;4;Bedroom;pcs
+Bell Peppers 5;10;5;Closet;pcs
+Mushrooms 5;5;2;Hallway;portions
+Garlic 5;4;2;Basement;heads
+Lemons 5;10;5;Attic;pcs
+Limes 5;8;4;Dining Room;pcs
+Pasta 5;12;6;Study;boxes
+Rice 5;5;2;Guest Room;bags
+Flour 5;8;4;Kids Room;bags
+Sugar 5;5;2;Master Bedroom;boxes
+Salt 5;4;2;Walk-in Closet;boxes
+Pepper 5;4;2;Linen Closet;sachets
+Olive Oil 5;5;2;Coat Closet;bottles
+Vinegar 5;5;2;Under Stairs;bottles
+Soy Sauce 5;4;2;Utility Room;bottles
+Honey 5;4;2;Mudroom;jars
+Jam 5;8;4;Sunroom;jars
+Peanut Butter 5;5;2;Porch;jars
+Oats 5;5;2;Deck;boxes
+Cereal 5;8;4;Patio;boxes
+Crackers 5;10;5;Shed;boxes
+Cookies 5;5;2;Greenhouse;boxes
+Canned Tomatoes 5;15;7;Wine Cellar;cans
+Canned Beans 5;20;10;Root Cellar;cans
+Tuna 5;10;5;Cold Storage;cans
+Chicken Broth 5;8;4;Dry Storage;cartons
+Shampoo 5;5;2;Kühlschrank;bottles
+Conditioner 5;5;2;Speisekammer;bottles
+Body Wash 5;8;4;Schlafzimmer;bottles
+Soap 5;10;5;Wohnzimmer;pcs
+Toothpaste 5;8;4;Arbeitszimmer;tubs
+Toothbrush 5;10;5;Kinderzimmer;pcs
+Mouthwash 5;5;2;Badezimmer;bottles
+Deodorant 5;5;2;Dachboden;pcs
+Toilet Paper 5;60;30;Keller;wrapped blocks
+Tissues 5;15;7;Flur;boxes
+Laundry Detergent 5;5;2;Eingang;bottles
+Fabric Softener 5;4;2;Balkon;bottles
+Bleach 5;4;2;Terrasse;bottles
+Dish Soap 5;8;4;Garten;bottles
+Sponges 5;15;7;Schuppen;pcs
+Glass Cleaner 5;5;2;Waschküche;bottles
+Air Freshener 5;5;2;Abstellraum;bottles
+Candles 5;10;5;Vorratskammer;pcs
+Batteries 5;20;10;Gefrierschrank;pcs
+Light Bulbs 5;10;5;Küchenschrank;pcs
+Milk 6;6;3;Küche;bottles
+Bread 6;5;2;Pantry;pcs
+Apples 6;12;6;Freezer;pcs
+Bananas 6;18;9;Bathroom;pcs
+Orange Juice 6;7;3;Laundry Room;cartons
+Yogurt 6;14;7;Kitchen Sink;tubs
+Cheese 6;6;3;Living Room;wrapped blocks
+Butter 6;5;2;Garage;wrapped blocks
+Eggs 6;36;18;Office;pcs
+Tomatoes 6;12;6;Break Room;pcs
+Potatoes 6;30;15;Restroom;bags
+Onions 6;10;5;Storage Room;bags
+Carrots 6;14;7;Workshop;bags
+Lettuce 6;6;3;Emergency Storage;heads
+Cucumber 6;10;5;Bedroom;pcs
+Bell Peppers 6;12;6;Closet;pcs
+Mushrooms 6;6;3;Hallway;portions
+Garlic 6;5;2;Basement;heads
+Lemons 6;12;6;Attic;pcs
+Limes 6;10;5;Dining Room;pcs
+Pasta 6;14;7;Study;boxes
+Rice 6;6;3;Guest Room;bags
+Flour 6;10;5;Kids Room;bags
+Sugar 6;6;3;Master Bedroom;boxes
+Salt 6;5;2;Walk-in Closet;boxes
+Pepper 6;5;2;Linen Closet;sachets
+Olive Oil 6;6;3;Coat Closet;bottles
+Vinegar 6;6;3;Under Stairs;bottles
+Soy Sauce 6;5;2;Utility Room;bottles
+Honey 6;5;2;Mudroom;jars
+Jam 6;10;5;Sunroom;jars
+Peanut Butter 6;6;3;Porch;jars
+Oats 6;6;3;Deck;boxes
+Cereal 6;10;5;Patio;boxes
+Crackers 6;12;6;Shed;boxes
+Cookies 6;6;3;Greenhouse;boxes
+Canned Tomatoes 6;18;9;Wine Cellar;cans
+Canned Beans 6;24;12;Root Cellar;cans
+Tuna 6;12;6;Cold Storage;cans
+Chicken Broth 6;10;5;Dry Storage;cartons
+Shampoo 6;6;3;Kühlschrank;bottles
+Conditioner 6;6;3;Speisekammer;bottles
+Body Wash 6;10;5;Schlafzimmer;bottles
+Soap 6;12;6;Wohnzimmer;pcs
+Toothpaste 6;10;5;Arbeitszimmer;tubs
+Toothbrush 6;12;6;Kinderzimmer;pcs
+Mouthwash 6;6;3;Badezimmer;bottles
+Deodorant 6;6;3;Dachboden;pcs
+Toilet Paper 6;72;36;Keller;wrapped blocks
+Tissues 6;18;9;Flur;boxes
+Laundry Detergent 6;6;3;Eingang;bottles
+Fabric Softener 6;5;2;Balkon;bottles
+Bleach 6;5;2;Terrasse;bottles
+Dish Soap 6;10;5;Garten;bottles
+Sponges 6;18;9;Schuppen;pcs
+Glass Cleaner 6;6;3;Waschküche;bottles
+Air Freshener 6;6;3;Abstellraum;bottles
+Candles 6;12;6;Vorratskammer;pcs
+Batteries 6;24;12;Gefrierschrank;pcs
+Light Bulbs 6;12;6;Küchenschrank;pcs
+Milk 7;7;3;Küche;bottles
+Bread 7;6;3;Pantry;pcs
+Apples 7;14;7;Freezer;pcs
+Bananas 7;21;10;Bathroom;pcs
+Orange Juice 7;8;4;Laundry Room;cartons
+Yogurt 7;16;8;Kitchen Sink;tubs
+Cheese 7;7;3;Living Room;wrapped blocks
+Butter 7;6;3;Garage;wrapped blocks
+Eggs 7;42;21;Office;pcs
+Tomatoes 7;14;7;Break Room;pcs
+Potatoes 7;35;17;Restroom;bags
+Onions 7;12;6;Storage Room;bags
+Carrots 7;16;8;Workshop;bags
+Lettuce 7;7;3;Emergency Storage;heads
+Cucumber 7;12;6;Bedroom;pcs
+Bell Peppers 7;14;7;Closet;pcs
+Mushrooms 7;7;3;Hallway;portions
+Garlic 7;6;3;Basement;heads
+Lemons 7;14;7;Attic;pcs
+Limes 7;12;6;Dining Room;pcs
+Pasta 7;16;8;Study;boxes
+Rice 7;7;3;Guest Room;bags
+Flour 7;12;6;Kids Room;bags
+Sugar 7;7;3;Master Bedroom;boxes
+Salt 7;6;3;Walk-in Closet;boxes
+Pepper 7;6;3;Linen Closet;sachets
+Olive Oil 7;7;3;Coat Closet;bottles
+Vinegar 7;7;3;Under Stairs;bottles
+Soy Sauce 7;6;3;Utility Room;bottles
+Honey 7;6;3;Mudroom;jars
+Jam 7;12;6;Sunroom;jars
+Peanut Butter 7;7;3;Porch;jars
+Oats 7;7;3;Deck;boxes
+Cereal 7;12;6;Patio;boxes
+Crackers 7;14;7;Shed;boxes
+Cookies 7;7;3;Greenhouse;boxes
+Canned Tomatoes 7;21;10;Wine Cellar;cans
+Canned Beans 7;28;14;Root Cellar;cans
+Tuna 7;14;7;Cold Storage;cans
+Chicken Broth 7;12;6;Dry Storage;cartons
+Shampoo 7;7;3;Kühlschrank;bottles
+Conditioner 7;7;3;Speisekammer;bottles
+Body Wash 7;12;6;Schlafzimmer;bottles
+Soap 7;14;7;Wohnzimmer;pcs
+Toothpaste 7;12;6;Arbeitszimmer;tubs
+Toothbrush 7;14;7;Kinderzimmer;pcs
+Mouthwash 7;7;3;Badezimmer;bottles
+Deodorant 7;7;3;Dachboden;pcs
+Toilet Paper 7;84;42;Keller;wrapped blocks
+Tissues 7;21;10;Flur;boxes
+Laundry Detergent 7;7;3;Eingang;bottles
+Fabric Softener 7;6;3;Balkon;bottles
+Bleach 7;6;3;Terrasse;bottles
+Dish Soap 7;12;6;Garten;bottles
+Sponges 7;21;10;Schuppen;pcs
+Glass Cleaner 7;7;3;Waschküche;bottles
+Air Freshener 7;7;3;Abstellraum;bottles
+Candles 7;14;7;Vorratskammer;pcs
+Batteries 7;28;14;Gefrierschrank;pcs
+Light Bulbs 7;14;7;Küchenschrank;pcs
+Milk 8;8;4;Küche;bottles
+Bread 8;7;3;Pantry;pcs
+Apples 8;16;8;Freezer;pcs
+Bananas 8;24;12;Bathroom;pcs
+Orange Juice 8;9;4;Laundry Room;cartons
+Yogurt 8;18;9;Kitchen Sink;tubs
+Cheese 8;8;4;Living Room;wrapped blocks
+Butter 8;7;3;Garage;wrapped blocks
+Eggs 8;48;24;Office;pcs
+Tomatoes 8;16;8;Break Room;pcs
+Potatoes 8;40;20;Restroom;bags
+Onions 8;14;7;Storage Room;bags
+Carrots 8;18;9;Workshop;bags
+Lettuce 8;8;4;Emergency Storage;heads
+Cucumber 8;14;7;Bedroom;pcs
+Bell Peppers 8;16;8;Closet;pcs
+Mushrooms 8;8;4;Hallway;portions
+Garlic 8;7;3;Basement;heads
+Lemons 8;16;8;Attic;pcs
+Limes 8;14;7;Dining Room;pcs
+Pasta 8;18;9;Study;boxes
+Rice 8;8;4;Guest Room;bags
+Flour 8;14;7;Kids Room;bags
+Sugar 8;8;4;Master Bedroom;boxes
+Salt 8;7;3;Walk-in Closet;boxes
+Pepper 8;7;3;Linen Closet;sachets
+Olive Oil 8;8;4;Coat Closet;bottles
+Vinegar 8;8;4;Under Stairs;bottles
+Soy Sauce 8;7;3;Utility Room;bottles
+Honey 8;7;3;Mudroom;jars
+Jam 8;14;7;Sunroom;jars
+Peanut Butter 8;8;4;Porch;jars
+Oats 8;8;4;Deck;boxes
+Cereal 8;14;7;Patio;boxes
+Crackers 8;16;8;Shed;boxes
+Cookies 8;8;4;Greenhouse;boxes
+Canned Tomatoes 8;24;12;Wine Cellar;cans
+Canned Beans 8;32;16;Root Cellar;cans
+Tuna 8;16;8;Cold Storage;cans
+Chicken Broth 8;14;7;Dry Storage;cartons
+Shampoo 8;8;4;Kühlschrank;bottles
+Conditioner 8;8;4;Speisekammer;bottles
+Body Wash 8;14;7;Schlafzimmer;bottles
+Soap 8;16;8;Wohnzimmer;pcs
+Toothpaste 8;14;7;Arbeitszimmer;tubs
+Toothbrush 8;16;8;Kinderzimmer;pcs
+Mouthwash 8;8;4;Badezimmer;bottles
+Deodorant 8;8;4;Dachboden;pcs
+Toilet Paper 8;96;48;Keller;wrapped blocks
+Tissues 8;24;12;Flur;boxes
+Laundry Detergent 8;8;4;Eingang;bottles
+Fabric Softener 8;7;3;Balkon;bottles
+Bleach 8;7;3;Terrasse;bottles
+Dish Soap 8;14;7;Garten;bottles
+Sponges 8;24;12;Schuppen;pcs
+Glass Cleaner 8;8;4;Waschküche;bottles
+Air Freshener 8;8;4;Abstellraum;bottles
+Candles 8;16;8;Vorratskammer;pcs
+Batteries 8;32;16;Gefrierschrank;pcs
+Light Bulbs 8;16;8;Küchenschrank;pcs

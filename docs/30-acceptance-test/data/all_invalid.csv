@@ -1,0 +1,5 @@
+Item;Stock Quantity;Reorder Level;Storage Location;Packaging Unit
+Bad Item 1;-5;1;Küche;bottles
+Bad Item 2;2;1;Küche;invalid_packaging
+;1;1;Küche;bottles
+Bad Item 4;1;1;;bottles

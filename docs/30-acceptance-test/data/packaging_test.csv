@@ -1,0 +1,7 @@
+Item;Stock Quantity;Reorder Level;Storage Location;Packaging Unit
+Canned Beans;8;4;Pantry;cans
+Fresh Lettuce;2;1;Küche;heads
+Jam;3;1;Pantry;jars
+Butter;2;1;Küche;wrapped blocks
+Soup Mix;10;5;Pantry;sachets
+Ice Cream;1;1;Küche;tubs

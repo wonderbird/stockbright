@@ -1,0 +1,6 @@
+Item;Stock Quantity;Reorder Level;Storage Location;Packaging Unit
+Orange Juice;2;1;Küche;cartons
+Pasta;4;2;Pantry;boxes
+Olive Oil;1;1;Pantry;bottles
+Detergent;3;1;Bathroom;bottles
+Toilet Paper;12;6;Bathroom;wrapped blocks

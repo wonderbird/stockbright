@@ -1,0 +1,57 @@
+Item;Stock Quantity;Reorder Level;Storage Location;Packaging Unit
+Kokosmilch;2;2;Vorratsregal;cans
+Kidneybohnen;4;4;Vorratsregal;cans
+Weiße Bohnen;5;4;Vorratsregal;cans
+Schwarze Bohnen;3;4;Vorratsregal;cans
+Gehackte Tomaten;2;6;Vorratsregal;cans
+Kichererbsen (Dose);2;6;Vorratsregal;cans
+Braune Linsen;5;4;Vorratsregal;cans
+Mais;2;2;Vorratsregal;cans
+Thunfisch;2;3;Vorratsregal;cans
+Kokosöl;1;1;Vorratsregal;jars
+Senf;2;1;Vorratsregal;jars
+Linsenchips (Paprikageschmack);2;3;Vorratsregal;bags
+Schokocreme;3;1;Vorratsregal;jars
+Essig;1;1;Vorratsregal;bottles
+Grapefruitsaft;1;2;Vorratsregal;cartons
+Milch;4;2;Vorratsregal;cartons
+Walnüsse;0;2;Vorratsregal;bags
+Gehackte Mandeln;2;1;Vorratsregal;bags
+Gemüsebrühe;0;1;Vorratsregal;bags
+Hühnerbrühe;0;1;Vorratsregal;jars
+Olivenöl;0;1;Vorratsregal;bottles
+Rotwein;0;2;Vorratsregal;bottles
+Margarine;0;1;Vorratsregal;tubs
+Kaffee (koffeinfrei);0;2;Ölkeller;bags
+Linsenchips (oriental);2;2;Eckschrank;bags
+Sojagranulat;1;;Eckschrank;bags
+Kichererbsen (getrocknet);1;1;Eckschrank;bags
+Rote Linsenpasta;3;3;Eckschrank;boxes
+Kichererbsen Fusilli;3;3;Eckschrank;boxes
+Rote Linsen;3;4;Eckschrank;bags
+Butter;1;2;Gefrierschrank;wrapped blocks
+Linsen-Paprika-Bohnen-Mais-Gericht;5;;Gefrierschrank;portions
+Würstchengulasch;7;;Gefrierschrank;portions
+Tomatensoße;1;;Gefrierschrank;portions
+Stew-Grundlage ohne Fleisch;1;;Gefrierschrank;portions
+Frühlingszwiebeln;4;;Gefrierschrank;portions
+Taco Rollup;1;;Gefrierschrank;portions
+Jalapeno Popper Chickensuppe;7;;Gefrierschrank;portions
+Schinkenwürfel;4;4;Gefrierschrank;portions
+Kuchen;1;;Gefrierschrank;portions
+Gehackte Kräuter;1;;Gefrierschrank;portions
+Blattspinat;1;5;Gefrierschrank;Package (500g)
+Salatgurke;1;3;Küche;pcs
+Miniromanasalat;1;3;Küche;heads
+Paprika;1;10;Küche;pcs
+Tomate;1;18;Küche;pcs
+Knoblauchzehen;2;2;Küche;pcs
+Eier;9;30;Küche;pcs
+Zitronen;0;1;Küche;pcs
+Avocados;0;2;Küche;pcs
+Tabasco;0;1;Küche;bottles
+Ostmann Chili Con Carne Gewürz;3;1;Küche;sachets
+Pommes Gewürzsalz;0;1;Küche;bags
+Protein Riegel;19;6;Büro;pcs
+Trinkmahlzeit;1;1;Büro;bottles
+Slow Carb Brot;3;2;Büro;bags
